@@ -35,12 +35,6 @@ This project enables **home automation** using an **Arduino** and **Bluetooth** 
 | `b`     | Turn OFF Fan         |
 | ...     | Extend as needed     |
 
-## 🛠️ Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/home-automation-bluetooth.git
-   ```
 ## Contribution 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would
 like to change.
